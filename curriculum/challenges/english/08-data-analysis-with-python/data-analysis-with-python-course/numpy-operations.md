@@ -46,5 +46,5 @@ a + 20
 
 ## --video-solution--
 
-2
+1
 
